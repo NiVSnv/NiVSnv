@@ -18,4 +18,4 @@
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
- Apaixonado por aprender, determinado a criar e impulsionado a inovar.
+ Apaixonado por aprender, determinado a criar, e corajoso para inovar.
